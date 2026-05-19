@@ -41,7 +41,7 @@ Entre sus responsabilidades se incluyen:
 - Centralizar consultas técnicas y comunicación con la cátedra.
 - Ayudar a destrabar problemas técnicos dentro del equipo.
 
-**Nombre del Tech Lead:**  [Completar con Nombre]
+**Nombre del Tech Lead:**  Franco Ezequiel Marchegiani Martinez
 
 ### Integrantes por funcionalidad
 
@@ -49,14 +49,14 @@ Entre sus responsabilidades se incluyen:
 
 | # | Integrante | Funcionalidad | Sección |
 |---|-----------|---------------|---------|
-| 1 | | Cuerpo Técnico y Estrategia | Mi Equipo |
-| 2 | | Rivales Históricos | Mi Equipo |
-| 3 | | Fase de Grupos | El Mundial |
-| 4 | | Camino del Equipo | El Mundial |
-| 5 | | Detalles de Partidos | El Mundial |
-| 6 | | Estadísticas y Premios | El Mundial |
-| 7 | | Historial de Mundiales | El Mundial |
-| 8 | | Eventos en Vivo | La Final |
+| 1 | Damian Ramírez | Cuerpo Técnico y Estrategia | Mi Equipo |
+| 2 | Heber Huayta | Rivales Históricos | Mi Equipo |
+| 3 | Tiziano Flores | Fase de Grupos | El Mundial |
+| 4 | Nayla | Camino del Equipo | El Mundial |
+| 5 | Tiziano Rios | Detalles de Partidos | El Mundial |
+| 6 | Bruno | Estadísticas y Premios | El Mundial |
+| 7 | Valentina Villalba | Historial de Mundiales | El Mundial |
+| 8 | Franco Marchegiani | Eventos en Vivo | La Final |
 | 9 | | Estado del Equipo en la Final | La Final |
 | 10 | | **Jugar la Final** *(Responsabilidad Grupal)* | La Final |
 
