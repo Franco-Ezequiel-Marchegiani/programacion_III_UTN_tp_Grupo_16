@@ -50,15 +50,15 @@ Entre sus responsabilidades se incluyen:
 | # | Integrante | Funcionalidad | Sección |
 |---|-----------|---------------|---------|
 | 1 | Damian Ramírez | Cuerpo Técnico y Estrategia | Mi Equipo |
-| 2 | Heber Huayta | Rivales Históricos | Mi Equipo |
+| 2 | Heber A Huayta | Rivales Históricos | Mi Equipo |
 | 3 | Tiziano Flores | Fase de Grupos | El Mundial |
-| 4 | Nayla | Camino del Equipo | El Mundial |
-| 5 | Tiziano Rios | Detalles de Partidos | El Mundial |
-| 6 | Bruno | Estadísticas y Premios | El Mundial |
+| 4 | Nayla Guarde | Camino del Equipo | El Mundial |
+| 5 | Tiziano Uriel Rios | Detalles de Partidos | El Mundial |
+| 6 | Bruno Gerardo García | Estadísticas y Premios | El Mundial |
 | 7 | Valentina Villalba | Historial de Mundiales | El Mundial |
-| 8 | Franco Marchegiani | Eventos en Vivo | La Final |
+| 8 | Ramiro Gambirassi | Eventos en Vivo | La Final |
 | 9 | Valentín rubial | Estado del Equipo en la Final | La Final |
-| 10 | (Todo el team, a definir división de tareas) | **Jugar la Final** *(Responsabilidad Grupal)* | La Final |
+| 10 | Franco Marchegiani | **Jugar la Final** *(Responsabilidad Grupal)* | La Final |
 
 > **Jugar la Final** es obligatoria para la aprobación del TP y responsabilidad de todo el grupo. Debe poder jugarse de principio a fin sin errores. De ella dependen: Eventos en Vivo, Estado del Equipo, Estadísticas y Premios e Historial de Mundiales.
 
